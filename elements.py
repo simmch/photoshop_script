@@ -1,0 +1,20 @@
+element_list = [
+    "LIGHT",
+    "SIPHON",
+    "DIVINE",
+    "GRAVITY",
+    "TIME",
+    "BLOOD",
+    "SPIRIT",
+    "POISON",
+    "DARK",
+    "PSYCHIC",
+    "DEATH",
+    "WIND",
+    "LIGHTNING",
+    "WATER",
+    "ICE",
+    "FIRE",
+    "PHYSICAL",
+    "EARTH"
+]
